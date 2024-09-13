@@ -1,0 +1,22 @@
+.me{
+    background-color: rgb(200,200,200);
+    /* padding: 20px; */
+    margin: 20px; border: 1px solid black;
+}
+.me h1{    color: red;
+}
+.me p  { color: #000000;}
+.me h3
+{color: rgb(255, 255, 255);font: 1em sans-serif; background: #ff00b3;}
+.me h2{ background: #000000; color: #ffffff; width: 70%; height: 20%;}
+.one{background-color: #eeeeee; color: #666666;  text-shadow: 1px 1px 0px ;}
+.two {background-color: #dddddd; color: #666666;  text-shadow: 1px 1px 3px ;}
+.three {background-color: #cccccc; color: #666666;  text-shadow: 1px 1px 4px ;}
+.four {background-color: #bbbbbb; color: #666666;  text-shadow: 1px 1px 5px ;}
+.five {background-color: #aaaaaa; color: #666666;  text-shadow: 1px 1px 6px ;}
+
+.mem1 p:first-letter {
+    font-size: 200%;}
+.mem1 p:first-line {
+    font-weight: bold;}
+
